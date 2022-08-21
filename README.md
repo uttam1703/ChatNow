@@ -2,8 +2,11 @@
 
 Realtime firebase chat app written in Swift 5, using below technology. 
 1.Firebase cloud
+
 2.UiKit
+
 3.Cocoapods
+
 4.MVC pattern 
 
 # Feature 
