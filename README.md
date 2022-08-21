@@ -1,6 +1,6 @@
 # ChatNow
 
-Realtime firebase chat app written in Swift 5
+Realtime firebase chat app written in Swift 5, using below technology. 
 
 # Feature 
 1. Real time Conversations
@@ -8,6 +8,7 @@ Realtime firebase chat app written in Swift 5
 3. Search for new Users
 4. Login/Registration using Email
 5. Deleting chat
+
 
 
 # Set Up
